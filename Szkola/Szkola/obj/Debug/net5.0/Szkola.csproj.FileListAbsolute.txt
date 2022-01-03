@@ -1,0 +1,16 @@
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.exe
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.deps.json
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.runtimeconfig.json
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.runtimeconfig.dev.json
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.dll
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\ref\Szkola.dll
+C:\Users\Jakub\source\repos\Szkola\Szkola\bin\Debug\net5.0\Szkola.pdb
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.csproj.AssemblyReference.cache
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.dll
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\ref\Szkola.dll
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.pdb
+C:\Users\Jakub\source\repos\Szkola\Szkola\obj\Debug\net5.0\Szkola.genruntimeconfig.cache
